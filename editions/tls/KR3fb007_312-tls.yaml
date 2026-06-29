@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb007/tls/v1/juan/312
+seq: 312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新編遵依司天臺經緯歷書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb007.xml
+hash: sha256:00553fadafffeca6d24c9e9c79ca5aaed6d4dfa52873efd075a9624869284424

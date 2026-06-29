@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb007/tls/v1/juan/638
+seq: 638
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 逸客斗南陸位校正目錄後學孺子陳可教參閱甲辰萬曆三十年閏九月乙巳萬曆三十三年丙午萬曆三十四年丁未萬曆三十五年閏六月戊申萬曆三十六年己酉萬曆三十七年庚戌萬曆三十八年閏三月辛亥萬曆三十九年壬子萬曆四十年閏十一月癸丑萬曆四十一年
+  hash: sha256:0e3f9b1ef24875b57281421647e94d86f61ee306e59a089aad82b30f49ee64a4
+metadata:
+  title: 新編遵依司天臺經緯歷書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb007.xml
+hash: sha256:0145856233e5e0f4a4c3d7256f6e816881781b8eb47f154831300449837246ce

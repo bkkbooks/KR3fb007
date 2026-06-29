@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb007/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第六卷萬曆三十二年至四十一年總目終
+  hash: sha256:1478edcfef924eca417f742b33c727743887b34de4e75fc96b7d7f7a518ab0a7
+metadata:
+  title: 新編遵依司天臺經緯歷書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb007.xml
+hash: sha256:753b0c3635a68a97c58a6f7ff8ee027ae492bc80dd9fb886a51cf596964aa952

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb007/tls/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 逸客斗南陸位校正目錄門人孺子陳可教閱甲子嘉慶四十五年閏三月乙丑嘉慶四十四年丙寅嘉慶四十五年閏十月丁卯隆慶元年戊辰隆慶二年己巳隆慶三年閏六月庚午隆慶四年辛未隆慶五年壬申隆慶六年閏二月癸酉萬曆元年
+  hash: sha256:fffdd4947efad6cf10c49976bbd7e9df5f0f72c0f2f62a5f2fef2904a475a590
+metadata:
+  title: 新編遵依司天臺經緯歷書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb007.xml
+hash: sha256:e69ad7c4266f58474694039efe57f280123f94765c7cc2caf6c556a779208317
