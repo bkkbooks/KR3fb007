@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 逸客斗南陸位校正目録門人孺子陳可教閲甲午萬曆二十二年乙未萬曆二十三年丙甲萬曆二十四年閏八月丁酉萬曆二十五年戊戌萬曆二十六年己亥萬曆二十七年閏四月庚子萬曆二十八年辛丑萬曆二十九年壬寅萬曆三十年閏二月癸卯萬曆三十一年
-  hash: sha256:176af988ab5cfcac9c992dbe09e0e96af5aa161f82ea19c41259d662de49ed47
+  text: 逸客斗南陸位校正目錄門人孺子陳可教閱甲午萬曆二十二年乙未萬曆二十三年丙甲萬曆二十四年閏八月丁酉萬曆二十五年戊戌萬曆二十六年己亥萬曆二十七年閏四月庚子萬曆二十八年辛丑萬曆二十九年壬寅萬曆三十年閏二月癸卯萬曆三十一年
+  hash: sha256:50341a906ae6f7b7d3330ab57f1b9e930f440444f25d8fd78292c58b9cbea9bf
 metadata:
   title: 新編遵依司天臺經緯歷書
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb007.xml
-hash: sha256:a2ebde6e76673c3028a972ea96be1fcea9242199d834e308a0efca6a910306f3
+hash: sha256:495c78b58c7484d09980ea12fad0ddb669834aae8b428f4f7bc6b526e9f2c8a8
